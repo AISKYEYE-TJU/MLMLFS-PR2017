@@ -21,7 +21,15 @@
 % ----------------------------------------------------------------------  
 % 
 % Please refer to the following paper
-% Zhu P, Xu Q, Hu Q, Zhang C. Robust Multi-label Feature Selection with Missing Labels.    
+@article{zhu2018multi,
+  title={Multi-label feature selection with missing labels},
+  author={Zhu, Pengfei and Xu, Qian and Hu, Qinghua and Zhang, Changqing and Zhao, Hong},
+  journal={Pattern Recognition},
+  volume={74},
+  pages={488--502},
+  year={2018},
+  publisher={Elsevier}
+}
 % 
 % Contact: {zhupengfei,xuqian912}@tju.edu.cn
 % ----------------------------------------------------------------------
